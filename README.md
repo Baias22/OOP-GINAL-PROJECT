@@ -185,3 +185,8 @@ Import completed
 ## Conclusion
 
 This project demonstrates implementation of a Java-based fitness tracking system using OOP principles, SQLite database integration, file handling, and modular software design.
+
+## Presentation
+
+Slides (Canva):
+https://canva.link/8urp6gwbnjk2a3n
