@@ -157,7 +157,9 @@ Import completed
 4. Use command-line menu to interact with system
 
 ---
-
+## Challenges Faced
+- Faced issues with duplicate IDs during CSV import and ensured data consistency in the database.
+- 
 ## Screenshots
 
 ### Main Menu
