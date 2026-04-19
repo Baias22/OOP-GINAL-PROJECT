@@ -163,25 +163,25 @@ Import completed
 ## Screenshots
 
 ### Main Menu
-![Menu](images/screenshots/menu.png)
+![Menu](images/skreenshots/menu.png)
 
 ### Add Activity
-![Add](images/screenshots/add.png)
+![Add](images/skreenshots/add.png)
 
 ### View Activities
-![View](images/screenshots/view.png)
+![View](images/skreenshots/view.png)
 
 ### Update Activity
-![Update](images/screenshots/update.png)
+![Update](images/skreenshots/update.png)
 
 ### Delete Activity
-![Delete](images/screenshots/delete.png)
+![Delete](images/skreenshots/delete.png)
 
 ### Export Data
-![Export](images/screenshots/export.png)
+![Export](images/skreenshots/export.png)
 
 ### Import Data
-![Import](images/screenshots/import.png)
+![Import](images/skreenshots/import.png)
 ## Conclusion
 
 This project demonstrates implementation of a Java-based fitness tracking system using OOP principles, SQLite database integration, file handling, and modular software design.
